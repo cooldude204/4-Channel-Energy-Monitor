@@ -1,3 +1,5 @@
+Work in Progress 
+
 # 4-Channel-Energy-Monitor
 D.I.Y 4-Channel Energy Monitor using a D1-mini or surfacemount ESP-07s, 
 ESP32-C3-01M with ADS1115.
